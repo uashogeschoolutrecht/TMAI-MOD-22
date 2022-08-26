@@ -1,0 +1,206 @@
+car_ID;carlength;carwidth;carheight;curbweight;carbody;horsepower;enginesize;CarName;price
+1;168.8;64.1;48.8;2548;convertible;111;130;alfa-romero giulia;13495.0
+2;168.8;64.1;48.8;2548;convertible;111;130;alfa-romero stelvio;16500.0
+3;171.2;65.5;52.4;2823;hatchback;154;152;alfa-romero Quadrifoglio;16500.0
+4;176.6;66.2;54.3;2337;sedan;102;109;audi 100 ls;13950.0
+5;176.6;66.4;54.3;2824;sedan;115;136;audi 100ls;17450.0
+6;177.3;66.3;53.1;2507;sedan;110;136;audi fox;15250.0
+7;192.7;71.4;55.7;2844;sedan;110;136;audi 100ls;17710.0
+8;192.7;71.4;55.7;2954;wagon;110;136;audi 5000;18920.0
+9;192.7;71.4;55.9;3086;sedan;140;131;audi 4000;23875.0
+10;178.2;67.9;52.0;3053;hatchback;160;131;audi 5000s (diesel);17859.167
+11;176.8;64.8;54.3;2395;sedan;101;108;bmw 320i;16430.0
+12;176.8;64.8;54.3;2395;sedan;101;108;bmw 320i;16925.0
+13;176.8;64.8;54.3;2710;sedan;121;164;bmw x1;20970.0
+14;176.8;64.8;54.3;2765;sedan;121;164;bmw x3;21105.0
+15;189.0;66.9;55.7;3055;sedan;121;164;bmw z4;24565.0
+16;189.0;66.9;55.7;3230;sedan;182;209;bmw x4;30760.0
+17;193.8;67.9;53.7;3380;sedan;182;209;bmw x5;41315.0
+18;197.0;70.9;56.3;3505;sedan;182;209;bmw x3;36880.0
+19;141.1;60.3;53.2;1488;hatchback;48;61;chevrolet impala;5151.0
+20;155.9;63.6;52.0;1874;hatchback;70;90;chevrolet monte carlo;6295.0
+21;158.8;63.6;52.0;1909;sedan;70;90;chevrolet vega 2300;6575.0
+22;157.3;63.8;50.8;1876;hatchback;68;90;dodge rampage;5572.0
+23;157.3;63.8;50.8;1876;hatchback;68;90;dodge challenger se;6377.0
+24;157.3;63.8;50.8;2128;hatchback;102;98;dodge d200;7957.0
+25;157.3;63.8;50.6;1967;hatchback;68;90;dodge monaco (sw);6229.0
+26;157.3;63.8;50.6;1989;sedan;68;90;dodge colt hardtop;6692.0
+27;157.3;63.8;50.6;1989;sedan;68;90;dodge colt (sw);7609.0
+28;157.3;63.8;50.6;2191;sedan;102;98;dodge coronet custom;8558.0
+29;174.6;64.6;59.8;2535;wagon;88;122;dodge dart custom;8921.0
+30;173.2;66.3;50.2;2811;hatchback;145;156;dodge coronet custom (sw);12964.0
+31;144.6;63.9;50.8;1713;hatchback;58;92;honda civic;6479.0
+32;144.6;63.9;50.8;1819;hatchback;76;92;honda civic cvcc;6855.0
+33;150.0;64.0;52.6;1837;hatchback;60;79;honda civic;5399.0
+34;150.0;64.0;52.6;1940;hatchback;76;92;honda accord cvcc;6529.0
+35;150.0;64.0;52.6;1956;hatchback;76;92;honda civic cvcc;7129.0
+36;163.4;64.0;54.5;2010;sedan;76;92;honda accord lx;7295.0
+37;157.1;63.9;58.3;2024;wagon;76;92;honda civic 1500 gl;7295.0
+38;167.5;65.2;53.3;2236;hatchback;86;110;honda accord;7895.0
+39;167.5;65.2;53.3;2289;hatchback;86;110;honda civic 1300;9095.0
+40;175.4;65.2;54.1;2304;sedan;86;110;honda prelude;8845.0
+41;175.4;62.5;54.1;2372;sedan;86;110;honda accord;10295.0
+42;175.4;65.2;54.1;2465;sedan;101;110;honda civic;12945.0
+43;169.1;66.0;51.0;2293;sedan;100;110;honda civic (auto);10345.0
+44;170.7;61.8;53.5;2337;sedan;78;111;isuzu MU-X;6785.0
+45;155.9;63.6;52.0;1874;sedan;70;90;isuzu D-Max ;8916.5
+46;155.9;63.6;52.0;1909;sedan;70;90;isuzu D-Max V-Cross;8916.5
+47;172.6;65.2;51.4;2734;hatchback;90;119;isuzu D-Max ;11048.0
+48;199.6;69.6;52.8;4066;sedan;176;258;jaguar xj;32250.0
+49;199.6;69.6;52.8;4066;sedan;176;258;jaguar xf;35550.0
+50;191.7;70.6;47.8;3950;sedan;262;326;jaguar xk;36000.0
+51;159.1;64.2;54.1;1890;hatchback;68;91;maxda rx3;5195.0
+52;159.1;64.2;54.1;1900;hatchback;68;91;maxda glc deluxe;6095.0
+53;159.1;64.2;54.1;1905;hatchback;68;91;mazda rx2 coupe;6795.0
+54;166.8;64.2;54.1;1945;sedan;68;91;mazda rx-4;6695.0
+55;166.8;64.2;54.1;1950;sedan;68;91;mazda glc deluxe;7395.0
+56;169.0;65.7;49.6;2380;hatchback;101;70;mazda 626;10945.0
+57;169.0;65.7;49.6;2380;hatchback;101;70;mazda glc;11845.0
+58;169.0;65.7;49.6;2385;hatchback;101;70;mazda rx-7 gs;13645.0
+59;169.0;65.7;49.6;2500;hatchback;135;80;mazda glc 4;15645.0
+60;177.8;66.5;53.7;2385;hatchback;84;122;mazda 626;8845.0
+61;177.8;66.5;55.5;2410;sedan;84;122;mazda glc custom l;8495.0
+62;177.8;66.5;53.7;2385;hatchback;84;122;mazda glc custom;10595.0
+63;177.8;66.5;55.5;2410;sedan;84;122;mazda rx-4;10245.0
+64;177.8;66.5;55.5;2443;sedan;64;122;mazda glc deluxe;10795.0
+65;177.8;66.5;55.5;2425;hatchback;84;122;mazda 626;11245.0
+66;175.0;66.1;54.4;2670;sedan;120;140;mazda glc;18280.0
+67;175.0;66.1;54.4;2700;sedan;72;134;mazda rx-7 gs;18344.0
+68;190.9;70.3;56.5;3515;sedan;123;183;buick electra 225 custom;25552.0
+69;190.9;70.3;58.7;3750;wagon;123;183;buick century luxus (sw);28248.0
+70;187.5;70.3;54.9;3495;hardtop;123;183;buick century;28176.0
+71;202.6;71.7;56.3;3770;sedan;123;183;buick skyhawk;31600.0
+72;202.6;71.7;56.5;3740;sedan;155;234;buick opel isuzu deluxe;34184.0
+73;180.3;70.5;50.8;3685;convertible;155;234;buick skylark;35056.0
+74;208.1;71.7;56.7;3900;sedan;184;308;buick century special;40960.0
+75;199.2;72.0;55.4;3715;hardtop;184;304;buick regal sport coupe (turbo);45400.0
+76;178.4;68.0;54.8;2910;hatchback;175;140;mercury cougar;16503.0
+77;157.3;64.4;50.8;1918;hatchback;68;92;mitsubishi mirage;5389.0
+78;157.3;64.4;50.8;1944;hatchback;68;92;mitsubishi lancer;6189.0
+79;157.3;64.4;50.8;2004;hatchback;68;92;mitsubishi outlander;6669.0
+80;157.3;63.8;50.8;2145;hatchback;102;98;mitsubishi g4;7689.0
+81;173.0;65.4;49.4;2370;hatchback;116;110;mitsubishi mirage g4;9959.0
+82;173.0;65.4;49.4;2328;hatchback;88;122;mitsubishi g4;8499.0
+83;173.2;66.3;50.2;2833;hatchback;145;156;mitsubishi outlander;12629.0
+84;173.2;66.3;50.2;2921;hatchback;145;156;mitsubishi g4;14869.0
+85;173.2;66.3;50.2;2926;hatchback;145;156;mitsubishi mirage g4;14489.0
+86;172.4;65.4;51.6;2365;sedan;88;122;mitsubishi montero;6989.0
+87;172.4;65.4;51.6;2405;sedan;88;122;mitsubishi pajero;8189.0
+88;172.4;65.4;51.6;2403;sedan;116;110;mitsubishi outlander;9279.0
+89;172.4;65.4;51.6;2403;sedan;116;110;mitsubishi mirage g4;9279.0
+90;165.3;63.8;54.5;1889;sedan;69;97;Nissan versa;5499.0
+91;165.3;63.8;54.5;2017;sedan;55;103;nissan gt-r;7099.0
+92;165.3;63.8;54.5;1918;sedan;69;97;nissan rogue;6649.0
+93;165.3;63.8;54.5;1938;sedan;69;97;nissan latio;6849.0
+94;170.2;63.8;53.5;2024;wagon;69;97;nissan titan;7349.0
+95;165.3;63.8;54.5;1951;sedan;69;97;nissan leaf;7299.0
+96;165.6;63.8;53.3;2028;hatchback;69;97;nissan juke;7799.0
+97;165.3;63.8;54.5;1971;sedan;69;97;nissan latio;7499.0
+98;170.2;63.8;53.5;2037;wagon;69;97;nissan note;7999.0
+99;162.4;63.8;53.3;2008;hardtop;69;97;nissan clipper;8249.0
+100;173.4;65.2;54.7;2324;hatchback;97;120;nissan rogue;8949.0
+101;173.4;65.2;54.7;2302;sedan;97;120;nissan nv200;9549.0
+102;181.7;66.5;55.1;3095;sedan;152;181;nissan dayz;13499.0
+103;184.6;66.5;56.1;3296;wagon;152;181;nissan fuga;14399.0
+104;184.6;66.5;55.1;3060;sedan;152;181;nissan otti;13499.0
+105;170.7;67.9;49.7;3071;hatchback;160;181;nissan teana;17199.0
+106;170.7;67.9;49.7;3139;hatchback;200;181;nissan kicks;19699.0
+107;178.5;67.9;49.7;3139;hatchback;160;181;nissan clipper;18399.0
+108;186.7;68.4;56.7;3020;sedan;97;120;peugeot 504;11900.0
+109;186.7;68.4;56.7;3197;sedan;95;152;peugeot 304;13200.0
+110;198.9;68.4;58.7;3230;wagon;97;120;peugeot 504 (sw);12440.0
+111;198.9;68.4;58.7;3430;wagon;95;152;peugeot 504;13860.0
+112;186.7;68.4;56.7;3075;sedan;95;120;peugeot 504;15580.0
+113;186.7;68.4;56.7;3252;sedan;95;152;peugeot 604sl;16900.0
+114;198.9;68.4;56.7;3285;wagon;95;120;peugeot 504;16695.0
+115;198.9;68.4;58.7;3485;wagon;95;152;peugeot 505s turbo diesel;17075.0
+116;186.7;68.4;56.7;3075;sedan;97;120;peugeot 504;16630.0
+117;186.7;68.4;56.7;3252;sedan;95;152;peugeot 504;17950.0
+118;186.7;68.3;56.0;3130;sedan;142;134;peugeot 604sl;18150.0
+119;157.3;63.8;50.8;1918;hatchback;68;90;plymouth fury iii;5572.0
+120;157.3;63.8;50.8;2128;hatchback;102;98;plymouth cricket;7957.0
+121;157.3;63.8;50.6;1967;hatchback;68;90;plymouth fury iii;6229.0
+122;167.3;63.8;50.8;1989;sedan;68;90;plymouth satellite custom (sw);6692.0
+123;167.3;63.8;50.8;2191;sedan;68;98;plymouth fury gran sedan;7609.0
+124;174.6;64.6;59.8;2535;wagon;88;122;plymouth valiant;8921.0
+125;173.2;66.3;50.2;2818;hatchback;145;156;plymouth duster;12764.0
+126;168.9;68.3;50.2;2778;hatchback;143;151;porsche macan;22018.0
+127;168.9;65.0;51.6;2756;hardtop;207;194;porcshce panamera;32528.0
+128;168.9;65.0;51.6;2756;hardtop;207;194;porsche cayenne;34028.0
+129;168.9;65.0;51.6;2800;convertible;207;194;porsche boxter;37028.0
+130;175.7;72.3;50.5;3366;hatchback;288;203;porsche cayenne;31400.5
+131;181.5;66.5;55.2;2579;wagon;90;132;renault 12tl;9295.0
+132;176.8;66.6;50.5;2460;hatchback;90;132;renault 5 gtl;9895.0
+133;186.6;66.5;56.1;2658;hatchback;110;121;saab 99e;11850.0
+134;186.6;66.5;56.1;2695;sedan;110;121;saab 99le;12170.0
+135;186.6;66.5;56.1;2707;hatchback;110;121;saab 99le;15040.0
+136;186.6;66.5;56.1;2758;sedan;110;121;saab 99gle;15510.0
+137;186.6;66.5;56.1;2808;hatchback;160;121;saab 99gle;18150.0
+138;186.6;66.5;56.1;2847;sedan;160;121;saab 99e;18620.0
+139;156.9;63.4;53.7;2050;hatchback;69;97;subaru;5118.0
+140;157.9;63.6;53.7;2120;hatchback;73;108;subaru dl;7053.0
+141;157.3;63.8;55.7;2240;hatchback;73;108;subaru dl;7603.0
+142;172.0;65.4;52.5;2145;sedan;82;108;subaru;7126.0
+143;172.0;65.4;52.5;2190;sedan;82;108;subaru brz;7775.0
+144;172.0;65.4;52.5;2340;sedan;94;108;subaru baja;9960.0
+145;172.0;65.4;54.3;2385;sedan;82;108;subaru r1;9233.0
+146;172.0;65.4;54.3;2510;sedan;111;108;subaru r2;11259.0
+147;173.5;65.4;53.0;2290;wagon;82;108;subaru trezia;7463.0
+148;173.5;65.4;53.0;2455;wagon;94;108;subaru tribeca;10198.0
+149;173.6;65.4;54.9;2420;wagon;82;108;subaru dl;8013.0
+150;173.6;65.4;54.9;2650;wagon;111;108;subaru dl;11694.0
+151;158.7;63.6;54.5;1985;hatchback;62;92;toyota corona mark ii;5348.0
+152;158.7;63.6;54.5;2040;hatchback;62;92;toyota corona;6338.0
+153;158.7;63.6;54.5;2015;hatchback;62;92;toyota corolla 1200;6488.0
+154;169.7;63.6;59.1;2280;wagon;62;92;toyota corona hardtop;6918.0
+155;169.7;63.6;59.1;2290;wagon;62;92;toyota corolla 1600 (sw);7898.0
+156;169.7;63.6;59.1;3110;wagon;62;92;toyota carina;8778.0
+157;166.3;64.4;53.0;2081;sedan;70;98;toyota mark ii;6938.0
+158;166.3;64.4;52.8;2109;hatchback;70;98;toyota corolla 1200;7198.0
+159;166.3;64.4;53.0;2275;sedan;56;110;toyota corona;7898.0
+160;166.3;64.4;52.8;2275;hatchback;56;110;toyota corolla;7788.0
+161;166.3;64.4;53.0;2094;sedan;70;98;toyota corona;7738.0
+162;166.3;64.4;52.8;2122;hatchback;70;98;toyota corolla;8358.0
+163;166.3;64.4;52.8;2140;sedan;70;98;toyota mark ii;9258.0
+164;168.7;64.0;52.6;2169;sedan;70;98;toyota corolla liftback;8058.0
+165;168.7;64.0;52.6;2204;hatchback;70;98;toyota corona;8238.0
+166;168.7;64.0;52.6;2265;sedan;112;98;toyota celica gt liftback;9298.0
+167;168.7;64.0;52.6;2300;hatchback;112;98;toyota corolla tercel;9538.0
+168;176.2;65.6;52.0;2540;hardtop;116;146;toyota corona liftback;8449.0
+169;176.2;65.6;52.0;2536;hardtop;116;146;toyota corolla;9639.0
+170;176.2;65.6;52.0;2551;hatchback;116;146;toyota starlet;9989.0
+171;176.2;65.6;52.0;2679;hardtop;116;146;toyota tercel;11199.0
+172;176.2;65.6;52.0;2714;hatchback;116;146;toyota corolla;11549.0
+173;176.2;65.6;53.0;2975;convertible;116;146;toyota cressida;17669.0
+174;175.6;66.5;54.9;2326;sedan;92;122;toyota corolla;8948.0
+175;175.6;66.5;54.9;2480;sedan;73;110;toyota celica gt;10698.0
+176;175.6;66.5;53.9;2414;hatchback;92;122;toyota corona;9988.0
+177;175.6;66.5;54.9;2414;sedan;92;122;toyota corolla;10898.0
+178;175.6;66.5;53.9;2458;hatchback;92;122;toyota mark ii;11248.0
+179;183.5;67.7;52.0;2976;hatchback;161;171;toyota corolla liftback;16558.0
+180;183.5;67.7;52.0;3016;hatchback;161;171;toyota corona;15998.0
+181;187.8;66.5;54.1;3131;sedan;156;171;toyota starlet;15690.0
+182;187.8;66.5;54.1;3151;wagon;156;161;toyouta tercel;15750.0
+183;171.7;65.5;55.7;2261;sedan;52;97;vokswagen rabbit;7775.0
+184;171.7;65.5;55.7;2209;sedan;85;109;volkswagen 1131 deluxe sedan;7975.0
+185;171.7;65.5;55.7;2264;sedan;52;97;volkswagen model 111;7995.0
+186;171.7;65.5;55.7;2212;sedan;85;109;volkswagen type 3;8195.0
+187;171.7;65.5;55.7;2275;sedan;85;109;volkswagen 411 (sw);8495.0
+188;171.7;65.5;55.7;2319;sedan;68;97;volkswagen super beetle;9495.0
+189;171.7;65.5;55.7;2300;sedan;100;109;volkswagen dasher;9995.0
+190;159.3;64.2;55.6;2254;convertible;90;109;vw dasher;11595.0
+191;165.7;64.0;51.4;2221;hatchback;90;109;vw rabbit;9980.0
+192;180.2;66.9;55.1;2661;sedan;110;136;volkswagen rabbit;13295.0
+193;180.2;66.9;55.1;2579;sedan;68;97;volkswagen rabbit custom;13845.0
+194;183.1;66.9;55.1;2563;wagon;88;109;volkswagen dasher;12290.0
+195;188.8;67.2;56.2;2912;sedan;114;141;volvo 145e (sw);12940.0
+196;188.8;67.2;57.5;3034;wagon;114;141;volvo 144ea;13415.0
+197;188.8;67.2;56.2;2935;sedan;114;141;volvo 244dl;15985.0
+198;188.8;67.2;57.5;3042;wagon;114;141;volvo 245;16515.0
+199;188.8;67.2;56.2;3045;sedan;162;130;volvo 264gl;18420.0
+200;188.8;67.2;57.5;3157;wagon;162;130;volvo diesel;18950.0
+201;188.8;68.9;55.5;2952;sedan;114;141;volvo 145e (sw);16845.0
+202;188.8;68.8;55.5;3049;sedan;160;141;volvo 144ea;19045.0
+203;188.8;68.9;55.5;3012;sedan;134;173;volvo 244dl;21485.0
+204;188.8;68.9;55.5;3217;sedan;106;145;volvo 246;22470.0
+205;188.8;68.9;55.5;3062;sedan;114;141;volvo 264gl;22625.0

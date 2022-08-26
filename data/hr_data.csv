@@ -1,0 +1,312 @@
+Employee_Name,EmpID,Salary,Termd,Position,State,DOB,Sex,MaritalDesc,CitizenDesc,HispanicLatino,RaceDesc,DateofHire,DateofTermination,TermReason,Department,ManagerName,RecruitmentSource,PerformanceScore,EngagementSurvey,EmpSatisfaction,SpecialProjectsCount,Absences
+"Adinolfi, Wilson  K",10026,62506,0,Production Technician I,MA,09/12/1986,M ,Single,US Citizen,No,White,04/12/2014,,N/A-StillEmployed,Production,Michael Albert,LinkedIn,Exceeds,4.6,5,0,1
+"Ait Sidi, Karthikeyan   ",10084,93993,1,Sr. DBA,MA,04/10/1978,M ,Married,US Citizen,No,White,29/08/2018,16/11/2019,career change,Production,Simon Roup,Indeed,Fully Meets,4.96,3,6,17
+"Akinkuolie, Sarah",10196,58459,1,Production Technician II,MA,19/02/1992,F,Married,US Citizen,No,White,04/12/2014,24/02/2016,hours,Production,Kissy Sullivan,LinkedIn,Fully Meets,3.02,3,0,3
+"Alagbe,Trina",10088,58491,0,Production Technician I,MA,27/02/1992,F,Married,US Citizen,No,White,08/06/2011,,N/A-StillEmployed,Production,Elijiah Gray,Indeed,Fully Meets,4.84,5,0,15
+"Anderson, Carol ",10069,50825,1,Production Technician I,MA,07/02/1993,F,Divorced,US Citizen,No,White,10/12/2014,06/02/2020,return to school,Production,Webster Butler,Google Search,Fully Meets,5.0,4,0,2
+"Anderson, Linda  ",10002,46054,0,Production Technician I,MA,21/10/1980,F,Single,US Citizen,No,White,10/06/2015,,N/A-StillEmployed,Production,Amy Dunn,LinkedIn,Exceeds,5.0,5,0,15
+"Andreola, Colby",10194,76528,0,Software Engineer,MA,23/10/1982,F,Single,US Citizen,No,White,11/04/2018,,N/A-StillEmployed,SoftwareEngineering,Alex Sweetwater,LinkedIn,Fully Meets,3.04,3,4,19
+"Athwal, Sam",10062,59365,0,Production Technician I,MA,20/07/1986,M ,Widowed,US Citizen,No,White,01/03/2017,,N/A-StillEmployed,Production,Ketsia Liebig,Employee Referral,Fully Meets,5.0,4,0,19
+"Bachiochi, Linda",10114,47837,0,Production Technician I,MA,13/07/1973,F,Single,US Citizen,No,Black or African American,05/12/2012,,N/A-StillEmployed,Production,Brannon Miller,Diversity Job Fair,Fully Meets,4.46,3,0,4
+"Bacong, Alejandro ",10250,50178,0,IT Support,MA,08/06/1991,M ,Divorced,US Citizen,No,White,06/06/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,Indeed,Fully Meets,5.0,5,6,16
+"Baczenski, Rachael  ",10252,43736,1,Production Technician I,MA,13/06/1977,F,Married,US Citizen,Yes,Black or African American,11/06/2014,13/06/2020,Another position,Production,David Stanley,Diversity Job Fair,Fully Meets,4.2,4,0,12
+"Barbara, Thomas",10242,37768,1,Production Technician I,MA,23/07/1977,M ,Married,US Citizen,Yes,Black or African American,02/09/2015,19/02/2020,unhappy,Production,Kissy Sullivan,Diversity Job Fair,Fully Meets,4.2,3,0,15
+"Barbossa, Hector",10012,92328,0,Data Analyst,TX,04/12/1991,M ,Divorced,US Citizen,No,Black or African American,11/04/2018,,N/A-StillEmployed,IT/IS,Simon Roup,Diversity Job Fair,Exceeds,4.28,4,5,9
+"Barone, Francesco  A",10265,58709,0,Production Technician I,MA,19/12/1986,M ,Single,US Citizen,No,Two or more races,22/07/2015,,N/A-StillEmployed,Production,Kelley Spirea,Google Search,Fully Meets,4.6,4,0,7
+"Barton, Nader",10066,42004,1,Production Technician I,MA,14/12/1980,M ,Divorced,US Citizen,No,White,24/02/2016,05/09/2020,Another position,Production,Michael Albert,On-line Web application,Fully Meets,5.0,5,0,1
+"Bates, Norman",10061,52050,1,Production Technician I,MA,19/03/1985,M ,Single,US Citizen,No,White,23/07/2014,03/01/2021,attendance,Production,Kelley Spirea,Google Search,Fully Meets,5.0,4,0,20
+"Beak, Kimberly  ",10023,56104,0,Production Technician II,MA,16/09/1969,F,Married,US Citizen,No,White,21/12/2019,,N/A-StillEmployed,Production,Kelley Spirea,Employee Referral,Exceeds,4.4,3,0,16
+"Beatrice, Courtney ",10055,47220,0,Production Technician I,MA,28/03/1974,F,Single,Eligible NonCitizen,No,White,03/09/2014,,N/A-StillEmployed,Production,Elijiah Gray,Google Search,Fully Meets,5.0,5,0,12
+"Becker, Renee",10245,110000,1,Database Administrator,MA,03/09/1989,F,Single,US Citizen,Yes,White,06/12/2017,11/02/2019,performance,IT/IS,Simon Roup,Google Search,Fully Meets,4.5,4,5,8
+"Becker, Scott",10277,53250,0,Production Technician I,MA,05/09/1982,M ,Single,US Citizen,No,Asian,07/12/2016,,N/A-StillEmployed,Production,Webster Butler,LinkedIn,Fully Meets,4.2,4,0,13
+"Bernstein, Sean",10046,51044,0,Production Technician I,MA,23/05/1974,M ,Single,US Citizen,Yes,White,02/09/2015,,N/A-StillEmployed,Production,Amy Dunn,Google Search,Fully Meets,5.0,3,0,13
+"Biden, Lowan  M",10226,58427,0,Production Technician I,MA,28/05/1962,F,Divorced,US Citizen,No,Asian,18/01/2017,,N/A-StillEmployed,Production,Ketsia Liebig,Indeed,Fully Meets,4.2,3,0,2
+"Billis, Helen",10003,56619,0,Production Technician I,MA,31/01/1993,F,Married,US Citizen,No,White,06/12/2017,,N/A-StillEmployed,Production,Brannon Miller,Indeed,Exceeds,5.0,3,0,19
+"Blount, Dianna",10294,53152,0,Production Technician II,MA,20/02/1994,F,Single,US Citizen,No,White,03/09/2014,,N/A-StillEmployed,Production,Michael Albert,CareerBuilder,Needs Improvement,2.0,3,0,3
+"Bondwell, Betsy",10267,57815,1,Production Technician II,MA,17/06/1970,F,Single,US Citizen,No,White,11/06/2014,03/09/2017,career change,Production,Elijiah Gray,Google Search,Fully Meets,4.8,5,0,5
+"Booth, Frank",10199,93251,1,Enterprise Architect,CT,30/12/1967,M ,Single,US Citizen,No,Black or African American,19/07/2017,21/07/2019,Learned that he is a gangster,Production,Simon Roup,LinkedIn,Fully Meets,3.5,5,7,2
+"Boutwell, Bonalyn",10081,85093,0,Sr. Accountant,MA,03/09/1990,F,Married,US Citizen,No,Black or African American,18/07/2018,,N/A-StillEmployed,AdminOffices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,5.0,4,3,4
+"Bozzi, Charles",10175,66880,1,Production Manager,MA,09/08/1973,M ,Single,US Citizen,No,Asian,01/03/2017,06/01/2018,retiring,Production,Janet King,Indeed,Fully Meets,3.39,3,0,14
+"Brill, Donna",10177,42793,1,Production Technician I,MA,23/01/1994,F,Married,US Citizen,No,White,02/09/2015,14/11/2016,Another position,Production,David Stanley,Google Search,Fully Meets,3.35,4,0,6
+"Brown, Mia",10238,56700,0,Accountant I,MA,25/04/1991,F,Married,US Citizen,No,Black or African American,28/03/2012,,N/A-StillEmployed,AdminOffices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,4.5,2,6,14
+"Buccheri, Joseph  ",10184,65288,0,Production Technician II,MA,27/12/1986,M ,Single,US Citizen,No,White,28/02/2018,,N/A-StillEmployed,Production,Webster Butler,Google Search,Fully Meets,3.19,3,0,9
+"Bugali, Josephine ",10203,57937,0,Production Technician I,MA,31/03/1973,F,Separated,US Citizen,No,Black or African American,12/04/2017,,N/A-StillEmployed,Production,Kissy Sullivan,Diversity Job Fair,Fully Meets,3.5,5,0,17
+"Bunbury, Jessica",10188,74326,1,Area Sales Manager,VA,01/11/1967,F,Married,Eligible NonCitizen,No,Black or African American,14/01/2015,01/01/2018,Another position,Sales,John Smith,Google Search,Fully Meets,3.14,5,0,19
+"Burke, Joelle",10107,63763,0,Production Technician II,MA,02/08/1983,F,Single,US Citizen,No,Black or African American,05/08/2015,,N/A-StillEmployed,Production,Amy Dunn,Employee Referral,Fully Meets,4.51,4,0,3
+"Burkett, Benjamin ",10181,62162,0,Production Technician II,MA,18/01/1981,M ,Married,US Citizen,No,White,03/09/2014,,N/A-StillEmployed,Production,Ketsia Liebig,Indeed,Fully Meets,3.25,5,0,15
+"Cady, Max ",10150,77692,0,Software Engineering Manager,MA,23/04/1970,M ,Single,US Citizen,No,White,14/01/2015,,N/A-StillEmployed,SoftwareEngineering,Jennifer Zamora,Google Search,Fully Meets,3.84,3,5,4
+"Candie, Calvin",10001,72640,0,Production Manager,MA,08/01/1987,M ,Single,US Citizen,No,White,29/06/2019,,N/A-StillEmployed,Production,Janet King,Indeed,Exceeds,5.0,3,0,14
+"Carabbio, Judith",10085,93396,0,Software Engineer,MA,04/09/1990,F,Single,US Citizen,No,White,12/04/2017,,N/A-StillEmployed,SoftwareEngineering,Alex Sweetwater,Indeed,Fully Meets,4.96,4,6,3
+"Carey, Michael  ",10115,52846,0,Production Technician I,MA,04/07/1986,M ,Single,US Citizen,No,Black or African American,30/08/2017,,N/A-StillEmployed,Production,Kelley Spirea,LinkedIn,Fully Meets,4.43,3,0,14
+"Carr, Claudia  N",10082,100031,0,Sr. DBA,MA,05/11/1989,F,Single,US Citizen,No,Black or African American,30/11/2019,,N/A-StillEmployed,IT/IS,Simon Roup,LinkedIn,Fully Meets,5.0,5,6,7
+"Carter, Michelle ",10040,57488,0,Area Sales Manager,VT,14/10/1966,F,Single,US Citizen,No,White,17/01/2018,,N/A-StillEmployed,Sales,John Smith,Indeed,Fully Meets,5.0,5,0,7
+"Chace, Beatrice ",10067,55490,0,Production Technician I,MA,03/06/1954,F,Single,US Citizen,No,White,28/02/2018,,N/A-StillEmployed,Production,Michael Albert,Google Search,Fully Meets,5.0,4,0,11
+"Champaigne, Brian",10108,110929,0,BI Director,MA,11/07/1975,M ,Married,US Citizen,No,White,06/02/2020,,N/A-StillEmployed,IT/IS,Jennifer Zamora,Indeed,Fully Meets,4.5,5,7,8
+"Chan, Lin",10210,48813,0,Production Technician I,MA,14/07/1982,F,Single,US Citizen,No,White,11/10/2017,,N/A-StillEmployed,Production,Elijiah Gray,Indeed,Fully Meets,3.3,4,0,11
+"Chang, Donovan  E",10154,60380,0,Production Technician I,MA,23/01/1987,M ,Single,US Citizen,No,White,07/12/2016,,N/A-StillEmployed,Production,Webster Butler,LinkedIn,Fully Meets,3.8,5,0,4
+"Chigurh, Anton",10200,66808,0,Area Sales Manager,TX,10/11/1973,M ,Single,Eligible NonCitizen,No,Black or African American,14/10/2015,,N/A-StillEmployed,Sales,Lynn Daneault,Employee Referral,Fully Meets,3.0,5,0,17
+"Chivukula, Enola",10240,51828,1,Production Technician I,MA,26/01/1987,F,Single,US Citizen,No,White,26/11/2014,16/04/2019,relocation out of area,Production,Amy Dunn,Indeed,Fully Meets,4.3,4,0,3
+"Cierpiszewski, Caroline  ",10168,58334,0,Production Technician I,MA,31/10/1991,F,Single,Non-Citizen,No,Black or African American,04/03/2015,,N/A-StillEmployed,Production,Ketsia Liebig,Indeed,Fully Meets,3.58,5,0,3
+"Clayton, Rick",10220,68678,0,IT Support,MA,04/02/1989,M ,Single,US Citizen,No,White,05/02/2016,,N/A-StillEmployed,IT/IS,Eric Dougall,Indeed,Fully Meets,4.7,3,6,2
+"Cloninger, Jennifer",10275,57659,1,Production Technician II,MA,30/01/1985,F,Married,US Citizen,No,White,15/10/2014,08/06/2016,unhappy,Production,Brannon Miller,Google Search,Fully Meets,4.2,5,0,9
+"Close, Phil",10269,47495,1,Production Technician II,MA,26/04/1982,M ,Married,US Citizen,No,White,29/01/2014,25/02/2015,career change,Production,David Stanley,Indeed,Fully Meets,4.2,4,0,6
+"Clukey, Elijian",10029,50373,0,Production Technician I,MA,26/01/1984,M ,Married,US Citizen,No,White,06/12/2019,,N/A-StillEmployed,Production,Brannon Miller,Employee Referral,Exceeds,4.1,4,0,5
+"Cockel, James",10261,63108,0,Production Technician I,MA,07/02/1981,M ,Single,US Citizen,No,White,07/12/2016,,N/A-StillEmployed,Production,David Stanley,Employee Referral,Fully Meets,4.4,5,0,3
+"Cole, Spencer",10292,47315,1,Production Technician I,MA,11/01/1983,M ,Single,US Citizen,No,Black or African American,10/12/2014,23/02/2020,performance,Production,Kissy Sullivan,LinkedIn,Needs Improvement,2.0,3,0,16
+"Corleone, Michael",10282,68051,0,Production Manager,MA,18/05/1979,M ,Divorced,US Citizen,No,White,19/12/2013,,N/A-StillEmployed,Production,Janet King,CareerBuilder,Needs Improvement,4.13,2,0,3
+"Corleone, Vito",10019,170500,0,Director of Operations,MA,18/08/1986,M ,Single,US Citizen,No,Black or African American,06/06/2012,,N/A-StillEmployed,Production,Janet King,Indeed,Exceeds,3.7,5,0,15
+"Cornett, Lisa ",10094,50704,0,Production Technician I,MA,30/08/1980,F,Married,US Citizen,Yes,White,06/06/2018,,N/A-StillEmployed,Production,Kelley Spirea,Indeed,Fully Meets,4.73,5,0,6
+"Costello, Frank",10193,83552,0,Data Analyst,MA,25/01/1990,M ,Married,US Citizen,No,White,29/08/2018,,N/A-StillEmployed,IT/IS,Simon Roup,Indeed,Fully Meets,3.04,3,6,2
+"Crimmings,   Jean",10132,56149,0,Production Technician I,MA,09/09/1990,F,Single,US Citizen,No,White,06/12/2019,,N/A-StillEmployed,Production,Michael Albert,LinkedIn,Fully Meets,4.12,5,0,15
+"Cross, Noah",10083,92329,0,Sr. Network Engineer,CT,08/02/1969,M ,Single,US Citizen,No,White,11/04/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,Employee Referral,Fully Meets,5.0,3,4,5
+"Daneault, Lynn",10099,65729,0,Sales Manager,VT,18/09/1993,F,Single,US Citizen,No,White,04/10/2017,,N/A-StillEmployed,Sales,Debra Houlihan,Indeed,Fully Meets,4.62,4,0,8
+"Daniele, Ann  ",10212,68022,0,Sr. Network Engineer,CT,19/06/1955,F,Married,US Citizen,No,White,11/04/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,LinkedIn,Fully Meets,3.1,5,8,19
+"Darson, Jene'ya ",10056,46066,0,Production Technician I,MA,06/04/1982,F,Married,US Citizen,No,White,02/12/2015,,N/A-StillEmployed,Production,Elijiah Gray,Indeed,Fully Meets,5.0,3,0,1
+"Davis, Daniel",10143,56294,0,Production Technician II,MA,13/02/1983,M ,Single,Eligible NonCitizen,No,Two or more races,08/04/2015,,N/A-StillEmployed,Production,Kissy Sullivan,LinkedIn,Fully Meets,3.96,4,0,6
+"Dee, Randy",10311,56991,0,Production Technician I,MA,15/09/1991,M ,Married,US Citizen,No,White,08/12/2021,,N/A-StillEmployed,Production,Brannon Miller,Indeed,Fully Meets,4.3,4,3,2
+"DeGweck,  James",10070,50149,1,Production Technician I,MA,01/04/1981,M ,Married,US Citizen,No,White,15/10/2014,08/11/2019,unhappy,Production,Webster Butler,Indeed,Fully Meets,5.0,4,0,14
+"Del Bosque, Keyla",10155,91079,0,Software Engineer,MA,04/12/1982,F,Single,US Citizen,No,Black or African American,10/06/2015,,N/A-StillEmployed,SoftwareEngineering,Alex Sweetwater,CareerBuilder,Fully Meets,3.79,5,5,8
+"Delarge, Alex",10306,61568,0,Area Sales Manager,AL,03/04/1979,M ,Single,US Citizen,No,Two or more races,28/02/2018,,N/A-StillEmployed,Sales,John Smith,Indeed,PIP,1.93,3,0,5
+"Demita, Carla",10100,46620,1,Production Technician II,MA,27/07/1954,F,Separated,US Citizen,No,Black or African American,03/09/2014,05/04/2019,more money,Production,Kelley Spirea,Google Search,Fully Meets,4.62,5,0,1
+"Desimone, Carl ",10310,53189,0,Production Technician I,MA,18/09/1970,M ,Married,US Citizen,No,White,06/12/2017,,N/A-StillEmployed,Production,Amy Dunn,Indeed,PIP,1.12,2,0,9
+"DeVito, Tommy",10197,96820,0,BI Developer,MA,03/02/1987,M ,Single,US Citizen,No,White,17/07/2020,,N/A-StillEmployed,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.01,5,7,15
+"Dickinson, Geoff ",10276,51259,0,Production Technician I,MA,16/04/1986,M ,Single,US Citizen,No,White,11/10/2017,,N/A-StillEmployed,Production,Ketsia Liebig,Indeed,Fully Meets,4.3,4,0,1
+"Dietrich, Jenna  ",10304,53307,0,Area Sales Manager,WA,13/10/1990,F,Single,US Citizen,Yes,White,22/07/2015,,N/A-StillEmployed,Sales,John Smith,Website,PIP,2.3,1,0,17
+"DiNocco, Lily ",10284,61584,0,Production Technician I,MA,03/05/1982,F,Married,US Citizen,No,Black or African American,08/06/2016,,N/A-StillEmployed,Production,Brannon Miller,Indeed,Needs Improvement,3.88,4,0,6
+"Dobrin, Denisa  S",10207,46335,0,Production Technician I,MA,08/03/1990,F,Single,US Citizen,Yes,White,02/09/2015,,N/A-StillEmployed,Production,David Stanley,CareerBuilder,Fully Meets,3.4,5,0,15
+"Dolan, Linda",10133,63558,0,IT Support,MA,18/12/1991,F,Married,US Citizen,No,White,06/06/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.11,4,6,16
+"Dougall, Eric",10028,138888,0,IT Manager - Support,MA,08/12/1973,M ,Single,US Citizen,No,Black or African American,06/06/2017,,N/A-StillEmployed,IT/IS,Jennifer Zamora,Indeed,Exceeds,4.3,5,5,4
+"Driver, Elle",10006,59392,0,Area Sales Manager,CA,09/04/1992,F,Single,US Citizen,No,White,11/06/2014,,N/A-StillEmployed,Sales,Lynn Daneault,Indeed,Exceeds,4.77,5,0,14
+"Dunn, Amy  ",10105,75188,0,Production Manager,MA,29/04/1977,F,Single,US Citizen,No,White,17/02/2018,,N/A-StillEmployed,Production,Janet King,Google Search,Fully Meets,4.52,4,0,4
+"Dunne, Amy",10211,62514,0,Production Technician I,MA,22/02/1977,F,Married,US Citizen,No,White,25/09/2013,,N/A-StillEmployed,Production,Ketsia Liebig,Google Search,Fully Meets,2.9,3,0,6
+"Eaton, Marianne",10064,54063,1,Production Technician I,MA,04/02/1995,F,Married,US Citizen,No,White,03/09/2014,05/11/2020,military,Production,Kissy Sullivan,Google Search,Fully Meets,5.0,3,0,7
+"Engdahl, Jean",10247,48888,0,Production Technician I,MA,30/10/1977,M ,Single,US Citizen,No,White,11/04/2018,,N/A-StillEmployed,Production,Kelley Spirea,LinkedIn,Fully Meets,4.7,5,0,8
+"England, Rex",10235,54285,0,Production Technician I,MA,24/01/1982,M ,Married,US Citizen,No,White,30/08/2017,,N/A-StillEmployed,Production,Kelley Spirea,Employee Referral,Fully Meets,4.2,3,0,3
+"Erilus, Angela",10299,56847,0,Production Technician II,MA,24/01/1993,F,Separated,US Citizen,No,White,06/12/2017,,N/A-StillEmployed,Production,Michael Albert,Indeed,PIP,3.0,1,0,5
+"Estremera, Miguel",10280,54306,1,Production Technician I,MA,01/02/1987,M ,Single,US Citizen,No,White,02/09/2015,26/02/2022,attendance,Production,Michael Albert,Google Search,Needs Improvement,5.0,4,0,16
+"Evensen, April",10296,53211,1,Production Technician I,MA,05/10/1992,F,Single,US Citizen,No,White,19/07/2017,27/07/2021,"no-call, no-show",Production,Elijiah Gray,Google Search,Needs Improvement,2.3,3,0,19
+"Exantus, Susan",10290,79424,1,Software Engineer,MA,14/10/1990,F,Married,US Citizen,No,Black or African American,01/10/2014,04/11/2016,attendance,SoftwareEngineering,Alex Sweetwater,Indeed,Needs Improvement,2.1,5,4,19
+"Faller, Megan ",10263,64598,0,Production Technician II,MA,21/02/1982,F,Married,US Citizen,No,Black or African American,06/12/2017,,N/A-StillEmployed,Production,Elijiah Gray,LinkedIn,Fully Meets,4.4,5,0,17
+"Fancett, Nicole",10136,65902,0,Production Technician II,MA,26/02/1991,F,Single,US Citizen,No,Black or African American,19/07/2017,,N/A-StillEmployed,Production,Webster Butler,LinkedIn,Fully Meets,4.0,4,0,7
+"Ferguson, Susan",10189,57748,1,Production Technician I,MA,13/09/1958,F,Married,US Citizen,No,White,08/04/2015,17/10/2019,military,Production,Webster Butler,Google Search,Fully Meets,3.13,3,0,16
+"Fernandes, Nilson  ",10308,64057,0,Production Technician I,MA,19/03/1993,M ,Married,US Citizen,No,White,10/10/2018,,N/A-StillEmployed,Production,Amy Dunn,Indeed,PIP,1.56,5,0,15
+"Fett, Boba",10309,53366,0,Network Engineer,MA,17/11/1990,M ,Single,US Citizen,No,White,29/08/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,LinkedIn,PIP,1.2,3,6,2
+"Fidelia,  Libby",10049,46824,0,Production Technician I,MA,15/08/1984,F,Married,US Citizen,No,White,10/06/2015,,N/A-StillEmployed,Production,Brannon Miller,Google Search,Fully Meets,5.0,5,0,19
+"Fitzpatrick, Michael  J",10093,72609,1,Production Technician II,MA,02/03/1985,M ,Single,US Citizen,Yes,White,15/10/2014,23/11/2016,hours,Production,Amy Dunn,Google Search,Fully Meets,4.76,5,0,20
+"Foreman, Tanya",10163,44772,1,Production Technician II,MA,09/04/1987,F,Married,US Citizen,No,White,03/09/2014,10/06/2016,career change,Production,Ketsia Liebig,Google Search,Fully Meets,3.66,3,0,6
+"Forrest, Alex",10305,56149,1,Area Sales Manager,MA,06/12/1978,M ,Married,US Citizen,No,White,28/02/2018,18/01/2022,Fatal attraction,Sales,Lynn Daneault,Employee Referral,PIP,2.0,5,0,7
+"Foss, Jason",10015,178000,0,IT Director,MA,05/12/1983,M ,Single,US Citizen,No,Black or African American,14/09/2014,,N/A-StillEmployed,IT/IS,Jennifer Zamora,Indeed,Exceeds,5.0,5,5,15
+"Foster-Baker, Amy",10080,99351,0,Sr. Accountant,MA,15/09/1982,F,Married,US Citizen,no,White,06/06/2012,,N/A-StillEmployed,AdminOffices,Board of Directors,Other,Fully Meets,5.0,3,2,3
+"Fraval, Maruk ",10258,67251,0,Area Sales Manager,CT,27/01/1967,M ,Single,US Citizen,No,Black or African American,05/02/2015,,N/A-StillEmployed,Sales,Lynn Daneault,CareerBuilder,Fully Meets,4.3,3,0,7
+"Galia, Lisa",10273,65707,0,IT Support,CT,06/12/1971,F,Single,US Citizen,No,White,30/09/2013,,N/A-StillEmployed,IT/IS,Eric Dougall,LinkedIn,Fully Meets,4.7,4,5,1
+"Garcia, Raul",10111,52249,0,Production Technician I,MA,14/02/1989,M ,Single,US Citizen,Yes,White,29/08/2018,,N/A-StillEmployed,Production,David Stanley,Employee Referral,Fully Meets,4.5,3,0,5
+"Gaul, Barbara",10257,42536,0,Production Technician I,MA,03/05/1987,F,Single,US Citizen,Yes,Black or African American,15/10/2014,,N/A-StillEmployed,Production,Kelley Spirea,LinkedIn,Fully Meets,4.2,4,0,12
+"Gentry, Mildred",10159,51337,0,Production Technician I,MA,02/03/1994,F,Married,US Citizen,No,Black or African American,29/08/2018,,N/A-StillEmployed,Production,Michael Albert,LinkedIn,Fully Meets,3.73,3,0,19
+"Gerke, Melisa",10122,51505,1,Production Technician I,MA,14/10/1973,F,Divorced,US Citizen,No,Black or African American,08/04/2015,16/04/2020,hours,Production,Elijiah Gray,Diversity Job Fair,Fully Meets,4.24,4,0,2
+"Gill, Whitney  ",10142,47496,1,Area Sales Manager,OH,09/12/1974,F,Widowed,US Citizen,No,Black or African American,06/12/2017,04/02/2019,attendance,Sales,John Smith,CareerBuilder,Fully Meets,3.97,4,0,7
+"Gilles, Alex",10283,43946,1,Production Technician I,MA,08/01/1978,M ,Married,US Citizen,No,Black or African American,02/09/2015,24/11/2018,military,Production,Webster Butler,Diversity Job Fair,Needs Improvement,3.97,4,0,15
+"Girifalco, Evelyn",10018,52033,0,Production Technician I,MA,08/10/1983,F,Single,US Citizen,Yes,Two or more races,28/02/2018,,N/A-StillEmployed,Production,Amy Dunn,Indeed,Exceeds,3.9,4,0,3
+"Givens, Myriam",10255,49244,0,Area Sales Manager,IN,21/02/1993,F,Single,US Citizen,No,White,18/07/2018,,N/A-StillEmployed,Sales,Lynn Daneault,Indeed,Fully Meets,4.5,5,0,20
+"Goble, Taisha",10246,103320,1,Database Administrator,MA,24/03/1975,F,Single,US Citizen,No,White,18/07/2018,14/08/2018,"no-call, no-show",IT/IS,Simon Roup,Indeed,Fully Meets,4.6,4,4,10
+"Goeth, Amon",10228,74679,0,IT Support,MA,25/04/1993,M ,Married,US Citizen,Yes,White,29/08/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,LinkedIn,Fully Meets,4.3,5,7,20
+"Gold, Shenice  ",10243,42414,0,Production Technician I,MA,18/11/1995,F,Single,US Citizen,Yes,White,12/04/2017,,N/A-StillEmployed,Production,Ketsia Liebig,Indeed,Fully Meets,4.3,5,0,7
+"Gonzalez, Cayo",10031,59892,0,Production Technician I,MA,28/02/1973,M ,Divorced,US Citizen,No,Black or African American,10/12/2014,,N/A-StillEmployed,Production,Brannon Miller,Diversity Job Fair,Exceeds,4.5,4,0,1
+"Gonzalez, Juan",10300,62008,1,Production Technician II,MA,13/03/1968,M ,Married,US Citizen,No,Black or African American,25/09/2013,29/10/2014,career change,Production,Brannon Miller,Diversity Job Fair,PIP,3.0,3,0,10
+"Gonzalez, Maria",10101,55117,0,IT Support,MA,15/09/1984,F,Separated,US Citizen,Yes,White,06/06/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.61,4,5,11
+"Good, Susan",10237,66825,0,Production Technician II,MA,24/10/1989,F,Married,US Citizen,No,White,11/10/2017,,N/A-StillEmployed,Production,David Stanley,LinkedIn,Fully Meets,4.6,3,0,20
+"Gordon, David",10051,48285,0,Production Technician I,MA,20/10/1982,M ,Married,US Citizen,No,White,02/12/2015,,N/A-StillEmployed,Production,David Stanley,LinkedIn,Fully Meets,5.0,3,0,2
+"Gosciminski, Phylicia  ",10218,66149,0,Production Technician II,MA,09/05/1987,F,Separated,US Citizen,No,American Indian or Alaska Native,01/03/2017,,N/A-StillEmployed,Production,Kissy Sullivan,Google Search,Fully Meets,4.4,5,0,1
+"Goyal, Roxana",10256,44330,0,Production Technician I,MA,10/03/1978,F,Married,US Citizen,No,Asian,18/01/2017,,N/A-StillEmployed,Production,Kissy Sullivan,LinkedIn,Fully Meets,4.1,5,0,3
+"Gray, Elijiah  ",10098,62957,0,Production Manager,MA,10/12/1984,M ,Divorced,US Citizen,No,White,01/11/2018,,N/A-StillEmployed,Production,Janet King,Employee Referral,Fully Meets,4.63,3,0,2
+"Gross, Paula",10059,57431,1,Production Technician I,MA,20/10/1986,F,Divorced,US Citizen,No,White,23/07/2014,12/06/2017,more money,Production,Kelley Spirea,CareerBuilder,Fully Meets,5.0,5,0,17
+"Gruber, Hans",10234,99020,0,BI Developer,MA,29/11/1992,M ,Married,US Citizen,No,Black or African American,19/09/2020,,N/A-StillEmployed,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.2,5,5,8
+"Guilianno, Mike",10109,64536,1,Area Sales Manager,TN,11/07/1972,M ,Single,US Citizen,No,Two or more races,07/08/2015,01/04/2018,relocation out of area,Sales,John Smith,LinkedIn,Fully Meets,4.5,5,0,20
+"Handschiegl, Joanne",10125,49345,0,Production Technician I,MA,22/08/1980,F,Married,US Citizen,No,White,29/04/2015,,N/A-StillEmployed,Production,Michael Albert,Google Search,Fully Meets,4.2,4,0,13
+"Hankard, Earnest",10074,64246,0,Production Technician II,MA,10/01/1992,M ,Single,US Citizen,Yes,White,12/04/2017,,N/A-StillEmployed,Production,Kelley Spirea,LinkedIn,Fully Meets,5.0,3,0,20
+"Harrington, Christie ",10097,41741,1,Production Technician I,MA,18/01/1956,F,Single,US Citizen,No,White,10/06/2015,16/05/2019,retiring,Production,Webster Butler,CareerBuilder,Fully Meets,4.64,4,0,8
+"Harrison, Kara",10007,55858,0,Production Technician I,MA,01/10/1977,F,Married,US Citizen,No,White,11/10/2017,,N/A-StillEmployed,Production,Amy Dunn,CareerBuilder,Exceeds,4.76,4,0,5
+"Heitzman, Anthony",10129,46998,0,Production Technician I,MA,05/06/1987,M ,Single,US Citizen,No,White,13/01/2016,,N/A-StillEmployed,Production,Ketsia Liebig,Google Search,Fully Meets,4.17,4,0,1
+"Hendrickson, Trina",10075,54479,1,Production Technician II,MA,27/01/1976,F,Single,US Citizen,No,White,11/06/2014,17/11/2016,hours,Production,Kelley Spirea,CareerBuilder,Fully Meets,5.0,3,0,15
+"Hitchcock, Alfred",10167,70545,0,Area Sales Manager,NH,14/02/1992,M ,Married,US Citizen,No,American Indian or Alaska Native,17/01/2018,,N/A-StillEmployed,Sales,John Smith,Indeed,Fully Meets,3.6,5,0,9
+"Homberger, Adrienne  J",10195,57130,1,Production Technician II,MA,18/07/1987,F,Married,Non-Citizen,No,White,14/01/2015,07/09/2015,relocation out of area,Production,Michael Albert,Indeed,Fully Meets,3.03,5,0,16
+"Horton, Jayne",10112,97999,0,Database Administrator,MA,23/07/1987,F,Single,US Citizen,No,White,29/08/2018,,N/A-StillEmployed,IT/IS,Simon Roup,Indeed,Fully Meets,4.48,5,6,4
+"Houlihan, Debra",10272,162000,0,Director of Sales,RI,16/08/1969,F,Married,US Citizen,No,White,04/10/2017,,N/A-StillEmployed,Sales,Janet King,LinkedIn,Fully Meets,4.5,4,0,19
+"Howard, Estelle",10182,44928,1,Administrative Assistant,MA,15/02/1989,F,Married,US Citizen,No,Black or African American,18/07/2018,14/09/2018,"no-call, no-show",AdminOffices,Brandon R. LeBlanc,Indeed,Fully Meets,3.24,3,4,6
+"Hudson, Jane",10248,49882,0,Production Technician I,MA,09/11/1989,F,Single,US Citizen,No,White,22/07/2015,,N/A-StillEmployed,Production,Ketsia Liebig,LinkedIn,Fully Meets,4.8,4,0,4
+"Hunts, Julissa",10201,62406,0,Production Technician II,MA,11/08/1987,F,Single,US Citizen,No,White,06/11/2019,,N/A-StillEmployed,Production,Elijiah Gray,LinkedIn,Fully Meets,3.0,5,0,4
+"Hutter, Rosalie",10214,58495,0,Production Technician II,MA,07/10/1995,F,Separated,US Citizen,No,White,04/11/2018,,N/A-StillEmployed,Production,Webster Butler,Indeed,Fully Meets,4.5,3,0,6
+"Huynh, Ming",10160,61363,1,Production Technician II,MA,22/02/1980,F,Divorced,US Citizen,No,White,23/07/2014,31/08/2016,unhappy,Production,Amy Dunn,Google Search,Fully Meets,3.72,3,0,18
+"Immediato, Walter",10289,74773,1,Production Manager,MA,16/04/1980,M ,Married,US Citizen,No,Asian,23/07/2014,24/02/2016,unhappy,Production,Janet King,Indeed,Needs Improvement,2.34,2,0,4
+"Ivey, Rose ",10139,41526,0,Production Technician I,MA,29/06/1994,F,Single,US Citizen,No,White,18/01/2017,,N/A-StillEmployed,Production,Brannon Miller,Indeed,Fully Meets,3.99,3,0,14
+"Jackson, Maryellen",10227,55117,0,Production Technician I,MA,11/02/1976,F,Single,US Citizen,No,Black or African American,06/04/2016,,N/A-StillEmployed,Production,David Stanley,LinkedIn,Fully Meets,4.1,3,0,7
+"Jacobi, Hannah  ",10236,36055,0,Production Technician I,MA,21/08/1969,F,Divorced,US Citizen,No,White,01/03/2017,,N/A-StillEmployed,Production,Kissy Sullivan,Employee Referral,Fully Meets,4.3,5,0,7
+"Jeannite, Tayana",10009,54651,0,Production Technician II,MA,07/04/1990,F,Divorced,US Citizen,No,American Indian or Alaska Native,04/12/2014,,N/A-StillEmployed,Production,Ketsia Liebig,LinkedIn,Exceeds,4.6,4,0,11
+"Jhaveri, Sneha  ",10060,54392,0,Production Technician I,MA,13/09/1967,F,Separated,US Citizen,No,White,07/06/2017,,N/A-StillEmployed,Production,Kelley Spirea,LinkedIn,Fully Meets,5.0,5,0,9
+"Johnson, George",10034,37469,1,Production Technician I,MA,18/01/1963,M ,Married,US Citizen,No,White,08/04/2015,28/09/2021,more money,Production,Michael Albert,CareerBuilder,Exceeds,4.7,4,0,9
+"Johnson, Noelle ",10156,84560,0,Database Administrator,MA,08/04/1990,F,Married,US Citizen,No,Asian,06/06/2018,,N/A-StillEmployed,IT/IS,Simon Roup,Indeed,Fully Meets,3.75,3,5,2
+"Johnston, Yen",10036,63322,0,Production Technician II,MA,07/02/1973,F,Single,US Citizen,No,White,06/12/2017,,N/A-StillEmployed,Production,Brannon Miller,LinkedIn,Exceeds,4.3,3,0,1
+"Jung, Judy  ",10138,61154,1,Production Technician I,MA,16/09/1989,F,Married,US Citizen,No,Black or African American,11/06/2014,01/09/2019,unhappy,Production,Elijiah Gray,CareerBuilder,Fully Meets,4.0,4,0,4
+"Kampew, Donysha",10244,55199,1,Sales Manager,PA,12/04/1993,F,Single,US Citizen,No,White,08/04/2015,23/09/2017,maternity leave - did not return,Production,Debra Houlihan,Google Search,Fully Meets,4.5,5,0,2
+"Keatts, Kramer ",10192,50482,0,Production Technician I,MA,20/06/1979,M ,Single,US Citizen,No,White,01/03/2017,,N/A-StillEmployed,Production,Michael Albert,Indeed,Fully Meets,3.07,4,0,10
+"Khemmich, Bartholemew",10231,65310,0,Area Sales Manager,CO,28/04/1983,M ,Single,US Citizen,No,White,18/01/2017,,N/A-StillEmployed,Sales,Lynn Daneault,Indeed,Fully Meets,4.3,5,0,13
+"King, Janet",10089,225000,0,President & CEO,MA,20/02/1958,F,Married,US Citizen,Yes,White,02/12/2015,,N/A-StillEmployed,ExecutiveOffice,Board of Directors,Indeed,Fully Meets,4.83,3,0,10
+"Kinsella, Kathleen  ",10166,43204,1,Production Technician I,MA,09/05/1977,F,Married,US Citizen,No,White,25/02/2015,03/11/2018,more money,Production,Webster Butler,Google Search,Fully Meets,3.6,5,0,16
+"Kirill, Alexandra  ",10170,40889,1,Production Technician I,MA,09/03/1974,F,Married,US Citizen,No,White,25/02/2015,10/06/2017,more money,Production,Amy Dunn,Google Search,Fully Meets,3.49,4,0,6
+"Knapp, Bradley  J",10208,46654,0,Production Technician I,MA,11/04/1981,M ,Single,US Citizen,No,Black or African American,19/07/2017,,N/A-StillEmployed,Production,Ketsia Liebig,LinkedIn,Fully Meets,3.1,3,0,3
+"Kretschmer, John",10176,63973,0,Production Technician I,MA,04/07/1983,M ,Married,US Citizen,No,Asian,11/06/2014,,N/A-StillEmployed,Production,Brannon Miller,Indeed,Fully Meets,3.38,3,0,17
+"Kreuger, Freddy",10165,71339,0,Area Sales Manager,NY,26/07/1972,M ,Single,US Citizen,Yes,Black or African American,06/08/2014,,N/A-StillEmployed,Sales,John Smith,Diversity Job Fair,Fully Meets,3.65,5,0,20
+"Lajiri,  Jyoti",10113,93206,0,Sr. Network Engineer,MA,22/09/1989,M ,Married,US Citizen,No,White,11/04/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.46,5,6,7
+"Landa, Hans",10092,66206,1,Production Manager,MA,01/12/1975,M ,Married,US Citizen,No,White,11/06/2014,13/05/2019,attendance,Production,Janet King,Employee Referral,Fully Meets,4.78,4,0,9
+"Langford, Lindsey",10106,52859,1,Production Technician II,MA,24/12/1982,F,Divorced,US Citizen,No,Asian,08/06/2016,30/08/2017,Another position,Production,David Stanley,Indeed,Fully Meets,4.52,3,0,20
+"Langton, Enrico",10052,46120,0,Production Technician I,MA,10/05/1990,M ,Married,US Citizen,No,White,09/12/2015,,N/A-StillEmployed,Production,David Stanley,LinkedIn,Fully Meets,5.0,5,0,13
+"LaRotonda, William  ",10038,64520,0,Accountant I,MA,26/09/1987,M ,Divorced,US Citizen,No,Black or African American,07/06/2017,,N/A-StillEmployed,AdminOffices,Brandon R. LeBlanc,Website,Fully Meets,5.0,4,4,3
+"Latif, Mohammed",10249,55765,1,Production Technician II,MA,09/10/1987,M ,Married,US Citizen,No,White,02/09/2015,14/09/2016,more money,Production,Kissy Sullivan,Google Search,Fully Meets,4.9,3,0,20
+"Le, Binh",10232,81584,0,Senior BI Developer,MA,13/11/1990,F,Single,US Citizen,No,Asian,03/03/2020,,N/A-StillEmployed,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.1,5,7,2
+"Leach, Dallas",10087,63676,1,Production Technician I,MA,18/06/1982,F,Single,US Citizen,No,Asian,25/02/2015,18/01/2022,return to school,Production,Kissy Sullivan,CareerBuilder,Fully Meets,4.88,3,0,17
+"LeBlanc, Brandon  R",10134,93046,0,Shared Services Manager,MA,10/11/1987,M ,Married,US Citizen,No,White,06/06/2019,,N/A-StillEmployed,AdminOffices,Janet King,CareerBuilder,Fully Meets,4.1,4,0,20
+"Lecter, Hannibal",10251,64738,0,Production Technician I,MA,01/02/1986,M ,Married,US Citizen,No,Asian,14/10/2015,,N/A-StillEmployed,Production,Elijiah Gray,Google Search,Fully Meets,4.1,3,0,10
+"Leruth, Giovanni",10103,70468,0,Area Sales Manager,UT,28/05/1992,M ,Separated,US Citizen,No,Black or African American,30/09/2015,,N/A-StillEmployed,Sales,John Smith,Website,Fully Meets,4.53,3,0,16
+"Liebig, Ketsia",10017,70123,0,Production Manager,MA,27/03/1985,F,Married,US Citizen,No,White,01/03/2017,,N/A-StillEmployed,Production,Janet King,Website,Exceeds,4.1,3,0,11
+"Linares, Marilyn ",10186,52624,1,Production Technician I,MA,25/08/1984,F,Married,US Citizen,No,White,04/12/2014,25/02/2022,unhappy,Production,Michael Albert,Indeed,Fully Meets,3.18,4,0,16
+"Linden, Mathew",10137,63450,0,Production Technician II,MA,18/08/1982,M ,Married,US Citizen,No,White,07/12/2016,,N/A-StillEmployed,Production,Kelley Spirea,LinkedIn,Fully Meets,4.0,3,0,7
+"Lindsay, Leonara ",10008,51777,0,IT Support,CT,06/03/1992,F,Single,US Citizen,Yes,Black or African American,22/06/2014,,N/A-StillEmployed,IT/IS,Eric Dougall,Diversity Job Fair,Exceeds,4.64,4,5,14
+"Lundy, Susan",10096,67237,1,Production Technician II,MA,27/05/1980,F,Widowed,US Citizen,No,White,07/12/2016,15/02/2020,more money,Production,Michael Albert,LinkedIn,Fully Meets,4.65,4,0,15
+"Lunquist, Lisa",10035,65997,0,Production Technician II,MA,27/08/1985,F,Single,US Citizen,No,Black or African American,18/01/2017,,N/A-StillEmployed,Production,Elijiah Gray,Indeed,Exceeds,4.2,4,0,19
+"Lydon, Allison",10057,46851,0,Production Technician I,MA,23/03/1979,F,Married,US Citizen,No,Black or African American,18/07/2018,,N/A-StillEmployed,Production,Elijiah Gray,Website,Fully Meets,5.0,3,0,6
+"Lynch, Lindsay",10004,37947,1,Production Technician I,MA,16/07/1976,F,Single,US Citizen,Yes,Black or African American,08/04/2015,15/04/2019,Another position,Production,Webster Butler,Diversity Job Fair,Exceeds,5.0,4,0,17
+"MacLennan, Samuel",10191,47509,1,Production Technician I,MA,10/04/1976,M ,Widowed,US Citizen,No,White,24/02/2016,25/02/2021,hours,Production,Amy Dunn,Indeed,Fully Meets,3.08,4,0,18
+"Mahoney, Lauren  ",10219,36316,0,Production Technician I,MA,06/12/1989,F,Single,US Citizen,No,White,07/06/2017,,N/A-StillEmployed,Production,Ketsia Liebig,LinkedIn,Fully Meets,4.6,4,0,14
+"Manchester, Robyn",10077,56146,0,Production Technician II,MA,25/01/1980,F,Married,US Citizen,No,White,11/10/2019,,N/A-StillEmployed,Production,Webster Butler,LinkedIn,Fully Meets,5.0,3,0,4
+"Mancuso, Karen",10073,68407,1,Production Technician II,MA,11/05/1990,F,Married,US Citizen,No,Two or more races,04/12/2014,19/01/2016,Another position,Production,Amy Dunn,LinkedIn,Fully Meets,5.0,4,0,16
+"Mangal, Debbie",10279,55214,0,Production Technician I,MA,08/04/1978,F,Married,US Citizen,No,White,12/04/2017,,N/A-StillEmployed,Production,Brannon Miller,LinkedIn,Fully Meets,4.1,3,0,11
+"Martin, Sandra",10110,84550,0,Software Engineer,MA,08/04/1991,F,Single,US Citizen,No,Asian,12/04/2017,,N/A-StillEmployed,SoftwareEngineering,Alex Sweetwater,Google Search,Fully Meets,4.5,5,4,14
+"Maurice, Shana",10053,48718,0,Production Technician I,MA,23/04/1981,F,Married,US Citizen,No,White,30/10/2014,,N/A-StillEmployed,Production,David Stanley,Indeed,Fully Meets,5.0,4,0,8
+"Carthy, B'rigit",10076,44252,0,Production Technician II,MA,20/10/1990,F,Single,US Citizen,No,Black or African American,29/08/2018,,N/A-StillEmployed,Production,Ketsia Liebig,LinkedIn,Fully Meets,5.0,5,0,16
+"Mckenna, Sandy",10145,50248,0,Production Technician I,MA,08/06/1990,F,Married,US Citizen,No,Black or African American,08/06/2016,,N/A-StillEmployed,Production,Kissy Sullivan,CareerBuilder,Fully Meets,3.93,3,0,20
+"McKinzie, Jac",10202,63291,0,Area Sales Manager,TX,01/12/1987,M ,Married,US Citizen,No,Two or more races,06/12/2019,,N/A-StillEmployed,Sales,Lynn Daneault,Website,Fully Meets,3.4,4,0,7
+"Meads, Elizabeth",10128,56393,1,Production Technician I,MA,30/10/1971,F,Single,US Citizen,No,Black or African American,02/09/2015,12/04/2020,Another position,Production,Kelley Spirea,Diversity Job Fair,Fully Meets,4.18,4,0,17
+"Medeiros, Jennifer",10068,44550,0,Production Technician I,MA,22/02/1980,F,Single,US Citizen,No,White,29/08/2018,,N/A-StillEmployed,Production,Michael Albert,CareerBuilder,Fully Meets,5.0,4,0,10
+"Miller, Brannon",10116,83667,0,Production Manager,MA,09/01/1985,M ,Single,US Citizen,yes,Hispanic,16/01/2016,,N/A-StillEmployed,Production,Janet King,Indeed,Fully Meets,4.37,3,0,2
+"Miller, Ned",10298,55800,1,Production Technician II,MA,28/11/1988,M ,Single,US Citizen,No,White,14/01/2015,03/02/2018,unhappy,Production,Brannon Miller,LinkedIn,PIP,3.0,2,0,6
+"Monkfish, Erasumus",10213,58207,0,Production Technician II,MA,17/01/1996,M ,Married,US Citizen,No,White,08/04/2015,,N/A-StillEmployed,Production,David Stanley,LinkedIn,Fully Meets,3.7,3,0,14
+"Monroe, Peter",10288,157000,0,IT Manager - Infra,MA,06/03/1990,M ,Married,Eligible NonCitizen,Yes,Black or African American,17/07/2015,,N/A-StillEmployed,IT/IS,Jennifer Zamora,Diversity Job Fair,Needs Improvement,2.39,3,6,13
+"Monterro, Luisa",10025,65214,0,Production Technician II,MA,23/09/1973,F,Single,US Citizen,No,Black or African American,12/10/2016,,N/A-StillEmployed,Production,Kissy Sullivan,Indeed,Exceeds,4.7,3,0,1
+"Moran, Patrick",10223,72106,0,Production Technician II,MA,04/05/1980,M ,Single,US Citizen,No,Black or African American,10/06/2015,,N/A-StillEmployed,Production,Kelley Spirea,Diversity Job Fair,Fully Meets,4.1,4,0,12
+"Morway, Tanya",10151,47339,0,Network Engineer,MA,03/09/1982,F,Married,US Citizen,No,White,18/07/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,CareerBuilder,Fully Meets,3.81,3,6,6
+"Motlagh,  Dawn",10254,57087,0,Production Technician I,MA,07/12/1987,F,Divorced,US Citizen,No,White,31/08/2016,,N/A-StillEmployed,Production,Elijiah Gray,LinkedIn,Fully Meets,4.4,4,0,18
+"Moumanil, Maliki ",10120,74417,0,Production Technician II,MA,02/05/1978,M ,Separated,US Citizen,No,Black or African American,12/10/2016,,N/A-StillEmployed,Production,Michael Albert,LinkedIn,Fully Meets,4.29,5,0,11
+"Myers, Michael",10216,57575,0,Production Technician I,MA,18/09/1983,M ,Single,US Citizen,No,Asian,07/12/2016,,N/A-StillEmployed,Production,Kissy Sullivan,LinkedIn,Fully Meets,4.1,4,0,13
+"Navathe, Kurt",10079,87921,0,Senior BI Developer,MA,24/09/1973,M ,Single,US Citizen,No,Asian,12/07/2020,,N/A-StillEmployed,IT/IS,Brian Champaigne,Indeed,Fully Meets,5.0,3,6,17
+"Ndzi, Colombui",10215,45423,1,Production Technician I,MA,01/10/1992,M ,Single,US Citizen,No,Black or African American,25/02/2015,03/09/2017,return to school,Production,Webster Butler,Diversity Job Fair,Fully Meets,4.3,3,0,19
+"Ndzi, Horia",10185,41997,1,Production Technician I,MA,27/08/1986,M ,Married,US Citizen,No,White,31/08/2016,25/10/2019,more money,Production,Amy Dunn,Employee Referral,Fully Meets,3.18,3,0,10
+"Newman, Richard ",10063,48495,0,Production Technician I,MA,07/09/1980,M ,Married,US Citizen,No,White,11/10/2017,,N/A-StillEmployed,Production,Ketsia Liebig,LinkedIn,Fully Meets,5.0,5,0,11
+"Ngodup, Shari ",10037,52984,0,Production Technician I,MA,02/11/1970,F,Separated,US Citizen,No,Black or African American,31/08/2016,,N/A-StillEmployed,Production,Brannon Miller,Diversity Job Fair,Exceeds,4.0,3,0,12
+"Nguyen, Dheepa",10042,57325,0,Area Sales Manager,GA,30/08/1992,F,Single,US Citizen,No,Two or more races,07/12/2016,,N/A-StillEmployed,Sales,Lynn Daneault,Indeed,Fully Meets,5.0,5,0,2
+"Nguyen, Lei-Ming",10206,62061,0,Production Technician I,MA,07/12/1987,F,Single,US Citizen,No,White,07/12/2016,,N/A-StillEmployed,Production,David Stanley,LinkedIn,Fully Meets,3.6,5,0,4
+"Nowlan, Kristie",10104,53390,0,Production Technician II,MA,24/04/1989,F,Single,US Citizen,No,White,11/04/2018,,N/A-StillEmployed,Production,Elijiah Gray,Indeed,Fully Meets,4.53,5,0,5
+"O'hare, Lynn",10303,42139,1,Production Technician I,MA,01/03/1984,F,Single,US Citizen,No,Two or more races,30/08/2017,30/09/2021,performance,Production,Kissy Sullivan,LinkedIn,PIP,2.33,2,0,3
+"Oliver, Brooke ",10078,64769,1,Production Technician II,MA,13/07/1955,F,Married,US Citizen,No,Asian,14/10/2015,18/01/2017,unhappy,Production,Webster Butler,LinkedIn,Fully Meets,5.0,3,0,17
+"Onque, Jasmine",10121,56745,0,Area Sales Manager,FL,10/10/1993,F,Single,US Citizen,Yes,White,01/03/2017,,N/A-StillEmployed,Sales,Lynn Daneault,Indeed,Fully Meets,4.28,3,0,1
+"Osturnka, Adeel",10021,47414,0,Production Technician I,MA,12/05/1980,M ,Married,US Citizen,No,White,01/03/2017,,N/A-StillEmployed,Production,Kelley Spirea,LinkedIn,Exceeds,5.0,3,0,13
+"Owad, Clinton",10281,53060,0,Production Technician I,MA,25/04/1983,M ,Single,US Citizen,No,Black or African American,19/07/2017,,N/A-StillEmployed,Production,Michael Albert,LinkedIn,Needs Improvement,4.25,3,0,6
+"Ozark, Travis",10041,68829,0,Area Sales Manager,NC,18/10/1985,M ,Single,US Citizen,No,White,06/06/2018,,N/A-StillEmployed,Sales,John Smith,Website,Fully Meets,5.0,5,0,18
+"Panjwani, Nina",10148,57163,1,Production Technician I,MA,30/09/1982,F,Married,US Citizen,No,White,09/07/2014,13/06/2017,Another position,Production,Elijiah Gray,Google Search,Fully Meets,3.89,4,0,7
+"Patronick, Lucas",10005,98088,1,Software Engineer,MA,22/07/1982,M ,Single,US Citizen,No,Black or African American,08/04/2015,06/02/2019,Another position,SoftwareEngineering,Alex Sweetwater,Diversity Job Fair,Exceeds,5.0,5,3,13
+"Pearson, Randall",10259,83783,1,Data Analyst,MA,05/02/1988,M ,Married,US Citizen,No,White,02/05/2018,01/10/2019,performance,IT/IS,Simon Roup,Employee Referral,Fully Meets,4.7,4,5,19
+"Smith, Martin",10286,42851,1,Production Technician I,MA,17/08/1991,M ,Single,US Citizen,No,Black or African American,11/06/2014,29/05/2021,career change,Production,Webster Butler,Google Search,Needs Improvement,3.54,5,0,15
+"Pelletier, Ermine",10297,54243,1,Production Technician II,MA,17/12/1992,F,Married,US Citizen,No,Asian,04/12/2014,14/02/2019,unhappy,Production,Amy Dunn,CareerBuilder,Needs Improvement,2.4,5,0,2
+"Perry, Shakira",10171,36798,1,Production Technician I,MA,19/12/1989,F,Single,US Citizen,No,White,15/10/2014,26/03/2019,medical issues,Production,Amy Dunn,LinkedIn,Fully Meets,3.45,4,0,5
+"Peters, Lauren",10032,52158,1,Production Technician II,MA,16/01/1990,F,Married,US Citizen,No,White,15/10/2014,06/07/2016,more money,Production,Ketsia Liebig,Indeed,Exceeds,4.2,5,0,12
+"Peterson, Ebonee  ",10130,74669,1,Production Manager,MA,08/10/1980,F,Married,US Citizen,No,White,26/03/2014,18/10/2019,Another position,Production,Janet King,Indeed,Fully Meets,4.16,5,0,6
+"Petingill, Shana  ",10217,59380,0,Production Technician II,MA,09/08/1982,F,Married,Eligible NonCitizen,No,Asian,02/09/2015,,N/A-StillEmployed,Production,Brannon Miller,LinkedIn,Fully Meets,4.3,3,0,14
+"Petrowsky, Thelma",10016,74843,0,Data Analyst,MA,16/02/1988,F,Married,US Citizen,No,Black or African American,11/04/2018,,N/A-StillEmployed,IT/IS,Simon Roup,Employee Referral,Exceeds,4.6,5,7,16
+"Pham, Hong",10050,64724,1,Production Technician I,MA,06/08/1991,M ,Married,US Citizen,No,Asian,04/12/2014,01/05/2016,more money,Production,Brannon Miller,Google Search,Fully Meets,5.0,3,0,13
+"Pitt, Brad ",10164,47001,0,Production Technician I,MA,24/04/1985,M ,Single,US Citizen,No,White,06/04/2011,,N/A-StillEmployed,Production,David Stanley,Google Search,Fully Meets,3.66,3,0,15
+"Potts, Xana",10124,49475,0,Area Sales Manager,KY,29/01/1992,F,Married,US Citizen,No,Black or African American,10/06/2015,,N/A-StillEmployed,Sales,Lynn Daneault,Website,Fully Meets,4.2,5,0,9
+"Power, Morissa",10187,42119,1,Production Technician I,MA,16/03/1988,F,Divorced,Eligible NonCitizen,No,Asian,15/10/2014,03/11/2021,Another position,Production,Kissy Sullivan,Google Search,Fully Meets,3.17,4,0,14
+"Punjabhi, Louis  ",10225,59472,0,Production Technician I,MA,18/11/1964,M ,Single,US Citizen,No,White,07/06/2017,,N/A-StillEmployed,Production,Kelley Spirea,Employee Referral,Fully Meets,4.8,3,0,14
+"Purinton, Janine",10262,41787,1,Production Technician I,MA,21/02/1974,F,Divorced,US Citizen,No,White,24/02/2016,17/11/2016,unhappy,Production,Kissy Sullivan,Indeed,Fully Meets,4.5,5,0,16
+"Quinn, Sean",10131,75026,1,Software Engineer,MA,07/04/1988,M ,Married,Eligible NonCitizen,No,Black or African American,23/07/2014,14/01/2019,career change,SoftwareEngineering,Janet King,Diversity Job Fair,Fully Meets,4.15,4,0,4
+"Rachael, Maggie",10239,86328,0,BI Developer,MA,12/10/1983,F,Married,US Citizen,No,Black or African American,03/03/2020,,N/A-StillEmployed,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.4,4,6,10
+"Rarrick, Quinn",10152,61729,1,Production Technician I,MA,01/06/1988,M ,Divorced,US Citizen,No,White,25/02/2015,06/09/2021,more money,Production,Michael Albert,Indeed,Fully Meets,3.8,5,0,19
+"Ren, Kylo",10140,61809,0,Area Sales Manager,ID,13/03/1958,M ,Married,US Citizen,No,White,11/10/2017,,N/A-StillEmployed,Sales,John Smith,CareerBuilder,Fully Meets,3.98,3,0,4
+"Rhoads, Thomas",10058,36092,1,Production Technician I,MA,21/12/1985,M ,Divorced,US Citizen,Yes,White,15/10/2014,16/06/2019,retiring,Production,Elijiah Gray,LinkedIn,Fully Meets,5.0,4,0,11
+"Rivera, Haley  ",10011,42064,0,Production Technician I,MA,13/06/1976,F,Married,US Citizen,No,Asian,29/04/2015,,N/A-StillEmployed,Production,Webster Butler,Google Search,Exceeds,4.36,5,0,16
+"Roberson, May",10230,58473,1,Production Technician II,MA,04/02/1985,F,Divorced,Eligible NonCitizen,No,Black or African American,25/02/2015,23/03/2015,return to school,Production,David Stanley,Google Search,Fully Meets,4.5,4,0,10
+"Robertson, Peter",10224,44462,1,Production Technician II,MA,03/12/1975,M ,Married,US Citizen,No,White,04/12/2014,10/07/2015,Another position,Production,Kissy Sullivan,Indeed,Fully Meets,4.2,5,0,13
+"Robinson, Alain  ",10047,45385,1,Production Technician I,MA,08/06/1977,M ,Married,US Citizen,No,Black or African American,11/06/2014,27/06/2019,attendance,Production,Amy Dunn,Indeed,Fully Meets,5.0,3,0,11
+"Robinson, Cherly",10285,55279,1,Production Technician I,MA,08/06/1988,F,Married,US Citizen,No,White,11/06/2014,17/10/2019,attendance,Production,Ketsia Liebig,Indeed,Needs Improvement,3.6,3,0,16
+"Robinson, Elias",10020,63353,0,Production Technician I,MA,29/06/1988,M ,Widowed,US Citizen,No,White,07/12/2016,,N/A-StillEmployed,Production,Brannon Miller,Employee Referral,Exceeds,3.6,5,0,4
+"Roby, Lori ",10162,89883,0,Data Analyst,MA,12/03/1985,F,Married,US Citizen,No,White,18/07/2018,,N/A-StillEmployed,IT/IS,Simon Roup,Employee Referral,Fully Meets,3.69,5,6,15
+"Roehrich, Bianca",10149,120000,1,Principal Data Architect,MA,26/10/1976,F,Single,US Citizen,Yes,White,06/06/2018,11/04/2022,Another position,IT/IS,Simon Roup,LinkedIn,Fully Meets,3.88,3,7,12
+"Roper, Katie",10086,135261,0,Data Architect,MA,22/04/1976,F,Single,US Citizen,No,Black or African American,08/06/2020,,N/A-StillEmployed,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.94,3,5,17
+"Rose, Ashley  ",10054,48501,0,Production Technician I,MA,06/05/1978,F,Separated,US Citizen,No,White,07/06/2017,,N/A-StillEmployed,Production,David Stanley,Website,Fully Meets,5.0,4,0,8
+"Rossetti, Bruno",10065,47862,1,Production Technician I,MA,17/08/1990,M ,Single,US Citizen,No,White,03/09/2014,12/01/2022,Another position,Production,Kissy Sullivan,Google Search,Fully Meets,5.0,5,0,4
+"Roup,Simon",10198,140920,0,IT Manager - DB,MA,04/09/1976,M ,Single,US Citizen,No,White,21/06/2016,,N/A-StillEmployed,IT/IS,Jennifer Zamora,Indeed,Fully Meets,3.6,5,7,13
+"Ruiz, Ricardo",10222,148999,1,IT Manager - DB,MA,05/06/1967,M ,Divorced,US Citizen,No,Black or African American,10/06/2015,05/04/2019,hours,IT/IS,Jennifer Zamora,Diversity Job Fair,Fully Meets,4.3,4,6,8
+"Saada, Adell",10126,68971,0,Software Engineer,MA,23/12/1989,F,Married,US Citizen,No,White,06/04/2016,,N/A-StillEmployed,SoftwareEngineering,Alex Sweetwater,Indeed,Fully Meets,4.2,3,6,2
+"Saar-Beckles, Melinda",10295,38200,0,Production Technician I,MA,06/11/1971,F,Single,US Citizen,No,Black or African American,04/12/2019,,N/A-StillEmployed,Production,Kelley Spirea,Diversity Job Fair,Needs Improvement,2.6,4,0,4
+"Sadki, Nore  ",10260,37142,1,Production Technician I,MA,22/05/1978,M ,Single,US Citizen,No,White,06/06/2012,29/12/2021,relocation out of area,Production,Michael Albert,Google Search,Fully Meets,4.6,5,0,7
+"Sahoo, Adil",10233,57975,0,Production Technician II,MA,25/09/1989,M ,Married,US Citizen,No,White,29/01/2014,,N/A-StillEmployed,Production,Kelley Spirea,CareerBuilder,Fully Meets,4.1,3,0,13
+"Salter, Jason",10229,79674,1,Data Analyst ,MA,18/05/1991,M ,Divorced,US Citizen,No,Black or African American,06/06/2018,01/04/2019,hours,Production,Simon Roup,LinkedIn,Fully Meets,4.2,3,5,2
+"Sander, Kamrin",10169,50532,0,Production Technician I,MA,10/12/1991,F,Married,US Citizen,No,Black or African American,28/02/2018,,N/A-StillEmployed,Production,Elijiah Gray,LinkedIn,Fully Meets,3.51,3,0,2
+"Sewkumar, Nori",10071,50923,0,Production Technician I,MA,09/08/1978,F,Single,US Citizen,No,Asian,01/03/2017,,N/A-StillEmployed,Production,Webster Butler,Google Search,Fully Meets,5.0,5,0,14
+"Shepard, Anita ",10179,40600,0,Network Engineer,MA,13/09/1984,F,Married,US Citizen,No,White,01/03/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,LinkedIn,Fully Meets,3.31,3,6,7
+"Shields, Seffi",10091,52087,0,Production Technician I,MA,23/01/1989,F,Married,US Citizen,No,White,18/01/2017,,N/A-StillEmployed,Production,Amy Dunn,LinkedIn,Fully Meets,4.81,4,0,15
+"Simard, Kramer",10178,87826,0,Data Analyst,MA,10/07/1973,M ,Married,US Citizen,Yes,White,06/06/2018,,N/A-StillEmployed,IT/IS,Simon Roup,Employee Referral,Fully Meets,3.32,3,7,16
+"Singh, Nan ",10039,51920,0,Administrative Assistant,MA,19/10/1991,F,Single,US Citizen,No,White,30/09/2018,,N/A-StillEmployed,AdminOffices,Brandon R. LeBlanc,Website,Fully Meets,5.0,3,5,2
+"Sloan, Constance",10095,63878,1,Production Technician II,MA,26/04/1991,F,Single,US Citizen,No,White,27/03/2013,07/09/2018,maternity leave - did not return,Production,Michael Albert,CareerBuilder,Fully Meets,4.68,4,0,20
+"Smith, Joe",10027,60656,0,Production Technician II,MA,31/03/1967,M ,Single,US Citizen,No,White,28/02/2018,,N/A-StillEmployed,Production,Elijiah Gray,Indeed,Exceeds,4.3,3,0,4
+"Smith, John",10291,72992,0,Sales Manager,MA,16/01/1988,M ,Divorced,US Citizen,No,Black or African American,17/10/2017,,N/A-StillEmployed,Sales,Debra Houlihan,Diversity Job Fair,Needs Improvement,2.4,4,0,16
+"Smith, Leigh Ann",10153,55000,1,Administrative Assistant,MA,13/11/1990,F,Married,US Citizen,No,Black or African American,25/02/2015,24/02/2017,career change,AdminOffices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,3.8,4,4,17
+"Smith, Sade",10157,47151,0,Production Technician I,MA,04/07/1968,F,Single,US Citizen,No,White,12/04/2017,,N/A-StillEmployed,Production,Ketsia Liebig,Employee Referral,Fully Meets,3.73,3,0,16
+"Soto, Julia ",10119,59933,0,IT Support,MA,11/08/1976,F,Married,US Citizen,No,Black or African American,09/11/2014,,N/A-StillEmployed,IT/IS,Eric Dougall,LinkedIn,Fully Meets,4.3,3,5,19
+"Soze, Keyser",10180,87565,0,Sr. Network Engineer,MA,11/07/1986,M ,Married,US Citizen,No,Asian,30/11/2019,,N/A-StillEmployed,IT/IS,Peter Monroe,LinkedIn,Fully Meets,3.27,4,5,13
+"Sparks, Taylor  ",10302,57618,0,Production Technician I,MA,20/12/1971,F,Married,US Citizen,No,White,22/07/2015,,N/A-StillEmployed,Production,Brannon Miller,Indeed,PIP,2.4,2,1,20
+"Spirea, Kelley",10090,65714,0,Production Manager,MA,01/03/1979,F,Married,US Citizen,No,White,03/03/2016,,N/A-StillEmployed,Production,Janet King,LinkedIn,Fully Meets,4.83,5,0,15
+"Squatrito, Kristen",10030,56182,1,Production Technician I,MA,25/08/1976,F,Divorced,US Citizen,No,White,12/10/2016,28/11/2018,unhappy,Production,David Stanley,LinkedIn,Exceeds,4.1,4,0,16
+"Stanford,Barbara  M",10278,38368,0,Production Technician I,MA,24/01/1986,F,Divorced,US Citizen,No,Two or more races,11/06/2014,,N/A-StillEmployed,Production,Kissy Sullivan,Google Search,Fully Meets,4.1,4,0,9
+"Stansfield, Norman",10307,58273,0,Area Sales Manager,NV,08/10/1977,M ,Married,US Citizen,No,White,11/10/2017,,N/A-StillEmployed,Sales,Lynn Daneault,Website,PIP,1.81,2,0,5
+"Steans, Tyrone  ",10147,63003,0,Accountant I,MA,31/01/1990,M ,Single,US Citizen,No,White,28/02/2018,,N/A-StillEmployed,AdminOffices,Brandon R. LeBlanc,Indeed,Fully Meets,3.9,5,5,9
+"Stoica, Rick",10266,61355,0,Production Technician I,MA,13/08/1988,M ,Married,US Citizen,No,Asian,19/07/2017,,N/A-StillEmployed,Production,Kelley Spirea,LinkedIn,Fully Meets,4.7,3,0,4
+"Strong, Caitrin",10241,54108,0,Area Sales Manager,MT,11/10/1992,F,Married,US Citizen,No,Black or African American,26/02/2014,,N/A-StillEmployed,Sales,John Smith,Indeed,Fully Meets,4.1,4,0,18
+"Sullivan, Kissy ",10158,57313,0,Production Manager,MA,27/08/1981,F,Married,US Citizen,No,Black or African American,09/06/2012,,N/A-StillEmployed,Production,Janet King,Indeed,Fully Meets,3.73,4,0,12
+"Sullivan, Timothy",10117,63025,0,Production Technician I,MA,08/03/1986,M ,Married,US Citizen,Yes,White,06/06/2018,,N/A-StillEmployed,Production,Michael Albert,Google Search,Fully Meets,4.36,5,0,10
+"Sutwell, Barbara",10209,53314,0,Production Technician I,MA,15/01/1972,F,Single,Eligible NonCitizen,No,Asian,14/10/2015,,N/A-StillEmployed,Production,Elijiah Gray,Indeed,Fully Meets,3.4,5,0,13
+"Szabo, Andrew",10024,92989,0,Software Engineer,MA,05/10/1986,M ,Single,US Citizen,No,White,06/12/2017,,N/A-StillEmployed,SoftwareEngineering,Alex Sweetwater,LinkedIn,Exceeds,4.5,5,5,1
+"Tannen, Biff",10173,90100,0,BI Developer,MA,25/03/1991,M ,Married,US Citizen,No,White,19/09/2020,,N/A-StillEmployed,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.4,3,6,14
+"Tavares, Desiree  ",10221,60754,1,Production Technician I,MA,02/09/1978,F,Married,Non-Citizen,No,Black or African American,26/09/2012,31/08/2016,Another position,Production,Webster Butler,Diversity Job Fair,Fully Meets,4.5,5,0,11
+"Tejeda, Lenora ",10146,64981,1,Production Technician II,MA,23/10/1956,F,Married,US Citizen,No,White,15/10/2014,07/12/2020,Another position,Production,Elijiah Gray,Google Search,Fully Meets,3.93,3,0,3
+"Terry, Sharlene ",10161,52533,0,Area Sales Manager,OR,06/10/1968,F,Single,US Citizen,No,Black or African American,28/02/2018,,N/A-StillEmployed,Sales,Lynn Daneault,Indeed,Fully Meets,3.69,3,0,18
+"Theamstern, Sophia",10141,48413,1,Production Technician I,MA,08/10/1968,F,Single,US Citizen,No,White,04/12/2014,05/02/2020,return to school,Production,Amy Dunn,Indeed,Fully Meets,3.98,4,0,1
+"Thibaud, Kenneth",10268,60458,1,Production Technician II,MA,15/02/1979,M ,Widowed,US Citizen,No,White,24/11/2010,29/01/2014,military,Production,Webster Butler,Other,Fully Meets,4.1,4,0,15
+"Tippett, Jeanette",10123,45071,0,Production Technician I,MA,04/11/1970,F,Divorced,US Citizen,No,Black or African American,20/07/2016,,N/A-StillEmployed,Production,Brannon Miller,Indeed,Fully Meets,4.21,5,0,4
+"Torrence, Jack",10013,64397,0,Area Sales Manager,ND,16/06/1971,M ,Separated,US Citizen,No,White,10/06/2009,,N/A-StillEmployed,Sales,Lynn Daneault,Indeed,Exceeds,4.1,3,0,6
+"Trang, Mei",10287,50420,0,Production Technician I,MA,15/10/1986,F,Single,US Citizen,No,White,19/07/2017,,N/A-StillEmployed,Production,David Stanley,LinkedIn,Needs Improvement,2.44,5,0,18
+"Tredinnick, Neville ",10044,67752,1,Network Engineer,MA,05/10/1991,M ,Married,US Citizen,No,White,06/06/2018,14/07/2019,medical issues,Production,Peter Monroe,CareerBuilder,Fully Meets,5.0,3,5,11
+"True, Edward",10102,80332,1,Software Engineer,MA,13/11/1986,M ,Single,Non-Citizen,No,Black or African American,20/07/2016,14/09/2021,medical issues,SoftwareEngineering,Alex Sweetwater,Diversity Job Fair,Fully Meets,4.6,3,4,9
+"Trzeciak, Cybil",10270,67331,1,Production Technician II,MA,14/08/1988,F,Single,US Citizen,No,White,11/06/2014,01/12/2017,unhappy,Production,Amy Dunn,LinkedIn,Fully Meets,4.4,3,0,5
+"Turpin, Jumil",10045,76029,0,Network Engineer,MA,30/08/1972,M ,Married,Eligible NonCitizen,No,White,29/08/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,Employee Referral,Fully Meets,5.0,4,7,8
+"Valentin,Jackie",10205,52073,0,Area Sales Manager,AZ,22/10/1994,F,Married,US Citizen,No,Two or more races,04/12/2014,,N/A-StillEmployed,Sales,John Smith,Indeed,Fully Meets,2.81,3,0,16
+"Veera, Abdellah ",10014,46818,1,Production Technician I,MA,02/07/1990,M ,Divorced,US Citizen,No,White,13/01/2016,07/07/2019,maternity leave - did not return,Production,Kissy Sullivan,LinkedIn,Exceeds,4.5,5,0,15
+"Vega, Vincent",10144,88976,0,Production Manager,MA,11/03/1972,M ,Divorced,US Citizen,No,White,31/12/2014,,N/A-StillEmployed,Production,Janet King,Employee Referral,Fully Meets,3.93,3,0,19
+"Villanueva, Noah",10253,55875,0,Area Sales Manager,ME,10/12/1992,M ,Single,US Citizen,No,Asian,05/08/2015,,N/A-StillEmployed,Sales,John Smith,Website,Fully Meets,4.5,4,0,11
+"Voldemort, Lord",10118,102599,1,Database Administrator,MA,06/01/1990,M ,Married,US Citizen,No,Black or African American,18/07/2018,24/07/2020,"no-call, no-show",IT/IS,Simon Roup,Employee Referral,Fully Meets,4.33,3,7,9
+"Volk, Colleen",10022,39818,1,Production Technician I,MA,02/11/1989,F,Married,US Citizen,No,White,25/02/2015,10/07/2019,gross misconduct,Production,Kelley Spirea,Google Search,Exceeds,4.3,5,0,18
+"Von Massenbach, Anna",10183,49654,0,Production Technician I,MA,05/09/1988,F,Single,US Citizen,No,White,04/12/2018,,N/A-StillEmployed,Production,Michael Albert,LinkedIn,Fully Meets,3.21,3,0,7
+"Walker, Roger",10190,66541,0,Production Technician II,MA,12/07/1979,M ,Single,US Citizen,No,Black or African American,17/01/2018,,N/A-StillEmployed,Production,Ketsia Liebig,Employee Referral,Fully Meets,3.11,5,0,4
+"Wallace, Courtney  E",10274,80512,1,Production Manager,MA,15/04/1959,F,Married,US Citizen,No,Black or African American,25/02/2015,03/06/2015,Another position,Production,Janet King,Diversity Job Fair,Fully Meets,4.5,3,0,5
+"Wallace, Theresa",10293,45246,1,Production Technician I,MA,02/01/1984,F,Single,US Citizen,No,White,13/01/2016,31/01/2019,career change,Production,Elijiah Gray,CareerBuilder,Needs Improvement,2.5,3,0,13
+"Wang, Charlie",10172,84903,0,Senior BI Developer,MA,07/12/1984,M ,Single,US Citizen,No,Asian,17/07/2020,,N/A-StillEmployed,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.42,4,7,17
+"Warfield, Sarah",10127,107226,0,Sr. Network Engineer,MA,01/10/1981,F,Widowed,US Citizen,No,Asian,29/08/2018,,N/A-StillEmployed,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.2,4,8,7
+"Whittier, Scott",10072,58371,1,Production Technician I,MA,23/10/1990,M ,Single,US Citizen,Yes,White,11/06/2014,14/10/2017,hours,Production,Webster Butler,LinkedIn,Fully Meets,5.0,5,0,11
+"Wilber, Barry",10048,49626,1,Production Technician I,MA,08/02/1969,M ,Married,Eligible NonCitizen,No,White,15/10/2014,06/02/2019,unhappy,Production,Amy Dunn,Website,Fully Meets,5.0,3,0,7
+"Wilkes, Annie",10204,58062,1,Production Technician I,MA,29/12/1986,F,Divorced,US Citizen,No,White,11/06/2014,14/10/2015,Another position,Production,Ketsia Liebig,Google Search,Fully Meets,3.6,5,0,9
+"Williams, Jacquelyn  ",10264,59728,1,Production Technician I,MA,03/03/1973,F,Single,US Citizen,Yes,Black or African American,10/06/2015,26/11/2018,relocation out of area,Production,Ketsia Liebig,Diversity Job Fair,Fully Meets,4.3,4,0,16
+"Winthrop, Jordan  ",10033,70507,1,Production Technician II,MA,08/04/1962,M ,Single,US Citizen,No,White,08/06/2016,23/07/2019,retiring,Production,Brannon Miller,LinkedIn,Exceeds,5.0,3,0,7
+"Wolk, Hang  T",10174,54401,0,Production Technician II,MA,19/09/1988,F,Single,US Citizen,No,White,28/02/2018,,N/A-StillEmployed,Production,David Stanley,LinkedIn,Fully Meets,3.4,4,0,14
+"Woodson, Jason",10135,65893,0,Production Technician II,MA,10/10/1988,M ,Single,US Citizen,No,White,06/12/2017,,N/A-StillEmployed,Production,Kissy Sullivan,LinkedIn,Fully Meets,4.07,4,0,13
+"Ybarra, Catherine ",10301,43661,1,Production Technician I,MA,03/10/1985,F,Single,US Citizen,No,Asian,02/02/2012,28/02/2019,Another position,Production,Brannon Miller,Google Search,PIP,3.2,2,0,4
+"Zamora, Jennifer",10010,176360,0,CIO,MA,29/01/1983,F,Single,US Citizen,No,White,09/09/2013,,N/A-StillEmployed,IT/IS,Janet King,Employee Referral,Exceeds,4.6,5,6,16
+"Zhou, Julia",10043,89292,0,Data Analyst,MA,26/07/1982,F,Single,US Citizen,No,White,29/08/2018,,N/A-StillEmployed,IT/IS,Simon Roup,Employee Referral,Fully Meets,5.0,3,5,11
+"Zima, Colleen",10271,40541,0,Production Technician I,MA,16/01/1982,F,Widowed,US Citizen,No,Asian,28/02/2018,,N/A-StillEmployed,Production,David Stanley,LinkedIn,Fully Meets,4.5,5,0,2
